@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "restClient.movies-info-url",
+    "type": "java.lang.String",
+    "description": "A description for 'restClient.movies-info-url'"
+  },
+  {
+    "name": "restClient.reviews-info-url",
+    "type": "java.lang.String",
+    "description": "A description for 'restClient.reviews-info-url'"
+  }
+]}

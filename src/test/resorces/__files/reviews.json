@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "movieInfoId": 1,
+    "comment": "Awesome Movie",
+    "rating": 9.0
+  },
+  {
+    "id": "2",
+    "movieInfoId": 1,
+    "comment": "Excellent Movie",
+    "rating": 8.0
+  }
+]
